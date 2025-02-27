@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @killall-love
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=killall-love&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 
-<!---
-killall-love/killall-love is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @killall-love
+- 📫 QQ: 1347229508
